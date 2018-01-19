@@ -1,0 +1,36 @@
+{
+  "name": "pulse",
+  "version": "0.0.0",
+  "description": "Mentum Pulse",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pulse",
+    "mentum",
+    "github",
+    "stargazers",
+    "stars"
+  ],
+  "author": "Mentum Inc",
+  "license": "ISC",
+  "dependencies": {
+    "analytics-node": "^1.2.2",
+    "aws-sdk": "^2.1.45",
+    "body-parser": "^1.13.3",
+    "ejs": "^2.3.3",
+    "express": "^4.13.3",
+    "fast-csv": "^0.6.0",
+    "github": "^0.2.4",
+    "mailgun-js": "^0.7.1",
+    "merge": "^1.2.0",
+    "node-uuid": "^1.4.3",
+    "parse-link-header": "^0.3.0",
+    "q": "^1.4.1",
+    "request": "^2.60.0",
+    "stripe": "^3.7.1",
+    "tmp": "0.0.27",
+    "underscore": "^1.8.3",
+    "uuid": "^2.0.1"
+  }
+}

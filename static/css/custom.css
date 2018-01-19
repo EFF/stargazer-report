@@ -1,0 +1,66 @@
+.sectionSeparator {
+    margin-top: 75px;
+}
+
+.button {
+    height: 54px;
+    line-height: 48px;
+    text-align: center;
+    background: #38acd2;
+    border: 1px solid #38acd2;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 0 36px;
+    transition: all 0.3s ease;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    color: #fff;
+}
+
+.button:hover {
+    background: #2c9fc4;
+}
+
+form a.button {
+    width: 100%;
+    display: inline-block;
+}
+
+.help-block {
+    margin-top: -10px;
+    font-size: 80%;
+    padding-left: 5px;
+    margin-bottom: 10px;
+}
+
+input[type="email"] {
+    height: 54px;
+    line-height: 48px;
+    padding-left: 16px;
+    border: 1px solid #eee;
+    background: #fff;
+    border-radius: 3px;
+    font-size: 16px;
+    color: #888888;
+    font-weight: 400;
+}
+
+.form-group input {
+    margin-bottom: 13px;
+}
+
+.logo-container {
+    margin: 25px auto 100px auto;
+}
+
+.logo-container h1 {
+    font-size: 100px;
+    line-height: 125px;
+    font-weight: 100;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+}
+
+section#one {
+    padding-bottom: 100px;
+}
